@@ -43,16 +43,16 @@ const Footer = () => {
                         <a className="hover:animate-bounce-spin transition-all duration-500" href="https://twitter.com/Mindwrap_Error" target="_blank" rel="noopener noreferrer">
                             <img src={assets.twitter_icon} alt="Twitter" className="w-5 h-5" />
                         </a>
-                        <a className='hover:animate-bounce-spin transition-all duration-500' href="https://whatsapp.com" target="_blank" rel="noopener noreferrer">
+                        <a className='hover:animate-bounce-spin transition-all duration-500' href="https://wa.me/9382869803" target="_blank" rel="noopener noreferrer">
                             <img src={assets.whatsapp_icon} alt="WhatsApp" className="w-5 h-5" />
                         </a>
-                        <a className='hover:animate-bounce-spin transition-all duration-500' href="https://whatsapp.com" target="_blank" rel="noopener noreferrer">
+                        <a className='hover:animate-bounce-spin transition-all duration-500' href="https://github.com/Soumyajit-manna" target="_blank" rel="noopener noreferrer">
                             <img src={assets.github_icon} alt="Github" className="w-5 h-5" />
                         </a>
-                        <a className='hover:animate-bounce-spin transition-all duration-500' href="https://telegram.com" target="_blank" rel="noopener noreferrer">
+                        <a className='hover:animate-bounce-spin transition-all duration-500' href="https://t.me/Soumya86373" target="_blank" rel="noopener noreferrer">
                             <img src={assets.telegram_icon} alt="Telegram" className="w-5 h-5" />
                         </a>
-                        <a className='hover:animate-bounce-spin transition-all duration-500' href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+                        <a className='hover:animate-bounce-spin transition-all duration-500' href="https://instagram.com/soumyajit_098" target="_blank" rel="noopener noreferrer">
                             <img src={assets.instagram_icon} alt="Instagram" className="w-5 h-5" />
                         </a>
                     </div>
